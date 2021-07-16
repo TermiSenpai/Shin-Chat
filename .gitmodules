@@ -1,0 +1,3 @@
+[submodule "chatAppFront"]
+	path = chatAppFront
+	url = https://github.com/alvaroGonzalezD/chatAppFront
