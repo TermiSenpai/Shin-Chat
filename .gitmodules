@@ -1,3 +1,12 @@
 [submodule "chatAppFront"]
 	path = chatAppFront
 	url = https://github.com/alvaroGonzalezD/chatAppFront
+[submodule "proyect_Chat"]
+	path = proyect_Chat
+	url = https://github.com/titoiriepal/proyect_Chat
+[submodule "flaskChat"]
+	path = flaskChat
+	url = https://github.com/CarlosOrozcoKronos/flaskChat
+[submodule "conectServer"]
+	path = conectServer
+	url = git@github.com:alba10916/conectServer.git
