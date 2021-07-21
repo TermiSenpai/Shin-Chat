@@ -4,12 +4,6 @@
 [submodule "proyect_Chat"]
 	path = proyect_Chat
 	url = https://github.com/titoiriepal/proyect_Chat
-[submodule "flaskChat"]
-	path = flaskChat
-	url = https://github.com/CarlosOrozcoKronos/flaskChat
-[submodule "conectServer"]
-	path = conectServer
-	url = git@github.com:alba10916/conectServer.git
 [submodule "Shin-Chat"]
 	path = Shin-Chat
 	url = https://github.com/CarlosOrozcoKronos/shin-chat_Electron.git
